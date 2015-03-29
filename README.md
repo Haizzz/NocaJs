@@ -1,4 +1,4 @@
-# NocaJs
+# [http://coderkit.github.io/NocaJs](NocaJS)
 
 A small library to easily manipulate javascript localStorage
 
